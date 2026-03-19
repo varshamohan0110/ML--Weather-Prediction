@@ -147,3 +147,4 @@ for target in targets:
 
 
 ## Result:
+The Random Forest model was successfully implemented and used to predict temperature, PM2.5 level, and energy consumption. The model produced accurate predictions with low error, showing good performance.
